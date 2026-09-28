@@ -14,6 +14,7 @@ const WORLD_CITIES = [
 function App() {
   return (
     <div className="app">
+      <div className="student-credit">Mohammed Ayman Siddiqui · CS-H · Roll 13 · PRN 12414007</div>
       <h1>World Clock Dashboard</h1>
       <Alarm />
       <div className="clock-grid">
