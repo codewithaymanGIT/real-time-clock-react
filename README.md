@@ -1,4 +1,4 @@
-﻿# Real-Time Clock Dashboard
+# Real-Time Clock Dashboard
 
 A responsive world clock dashboard built with React, featuring live analog and digital clocks across multiple timezones, plus a configurable alarm system.
 
@@ -7,7 +7,7 @@ A responsive world clock dashboard built with React, featuring live analog and d
 - Live analog clock (SVG-based) with smoothly moving hour, minute, and second hands
 - Live digital clock with formatted time and date
 - Multiple world regions displayed simultaneously (Local, New York, London, Mumbai, Tokyo, Sydney)
-- Alarm feature â€” set an alarm in any supported timezone, with audible and visual notification
+- Alarm feature — set an alarm in any supported timezone, with audible and visual notification
 - Fully responsive layout (grid reflows for mobile/tablet/desktop)
 - Built using functional components and React Hooks (useState, useEffect, useRef)
 
